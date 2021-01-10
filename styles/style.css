@@ -1,0 +1,30 @@
+
+
+.list .header {
+    font-family: "Delius Unicase";
+    margin: 0 0 10px 0;
+}
+
+.input {
+    font-family: "Delius Unicase";
+    width: 100%;
+    padding: 5px 10px;
+    border: 1px solid green;
+}
+
+.submit {
+    background-color: rgb(203, 209, 187);
+    padding: 5px 10px;
+    border: 1px;
+    width: 100%;
+    margin-top: 10px;border-radius: 15px;
+}
+
+.list thead{
+    font-family: "Patrick Hand";
+}
+
+.list tbody tr {
+    font-family: 1.5em "Patrick Hand";
+}
+
